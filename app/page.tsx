@@ -17,7 +17,7 @@ export default function Home() {
       }}
     >
       <h1 style={{ color: "white", fontSize: "34px", marginBottom: "10px" }}>
-        Welcome to TouLegacy
+        Frontend Web Developer Portfolio
       </h1>
 
       <p style={{ color: "#aaa", maxWidth: "500px", marginBottom: "30px" }}>
